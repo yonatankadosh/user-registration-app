@@ -22,4 +22,4 @@ Use the `api-commands.sh` script to interact with the API:
 
 # Add a new user
 ./api-commands.sh add "John Doe" "john@example.com" 30
-``` 
+```
